@@ -10,5 +10,6 @@ Creating a new branch is quick
 Creating a new branch is quick and simple.
 --no-ff
 
+git stash dev --1
 fixed bug 101 ^-^
 fixed bug 821
