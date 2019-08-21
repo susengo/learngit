@@ -7,3 +7,4 @@ guoss test 3 line. i am a little tail.
 7 line.
 
 Creating a new branch is quick
+Creating a new branch is quick & simple.
