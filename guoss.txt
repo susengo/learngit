@@ -13,3 +13,4 @@ Creating a new branch is quick and simple.
 git stash dev --1
 fixed bug 101 ^-^
 fixed bug 821
+test cheery-pick command
