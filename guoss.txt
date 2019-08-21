@@ -7,8 +7,4 @@ guoss test 3 line. i am a little tail.
 7 line.
 
 Creating a new branch is quick
-<<<<<<< HEAD
-Creating a new branch is quick AND simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
+Creating a new branch is quick and simple.
