@@ -8,3 +8,4 @@ guoss test 3 line. i am a little tail.
 
 Creating a new branch is quick
 Creating a new branch is quick and simple.
+--no-ff
